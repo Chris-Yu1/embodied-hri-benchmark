@@ -1,0 +1,15 @@
+session_id,participant_id,platform,turn_id,event,timestamp_s,value
+t01,p01,Temi,1,question_requested,0.00,
+t01,p01,Temi,1,question_ready,1.80,
+t01,p01,Temi,1,speech_requested,1.80,
+t01,p01,Temi,1,speech_started,2.40,
+t01,p01,Temi,1,attention_sample,3.00,1
+t01,p01,Temi,1,central_gaze_sample,3.00,1
+t01,p01,Temi,1,answer_accepted,8.00,
+w01,p01,Walker,1,question_requested,0.00,
+w01,p01,Walker,1,question_ready,2.50,
+w01,p01,Walker,1,speech_requested,2.50,
+w01,p01,Walker,1,speech_started,3.60,
+w01,p01,Walker,1,attention_sample,4.00,0
+w01,p01,Walker,1,central_gaze_sample,4.00,1
+w01,p01,Walker,1,no_speech_timeout,12.00,
